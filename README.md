@@ -11,4 +11,4 @@ Holding the button will retract the point addition in case of an error.
 
 ## Used Technologies
 - python and tkinter library to show score
-- raspberry pi pico with micro python
+- raspberry pi pico with MicroPython
